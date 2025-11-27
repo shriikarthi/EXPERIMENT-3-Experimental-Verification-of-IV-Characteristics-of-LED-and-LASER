@@ -1,4 +1,3 @@
-
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
 # Fiber Optic LED Characteristics and Photo Detector Response
 
@@ -38,26 +37,17 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 8. Record values of Vf and If, and plot the characteristic curve between them.
 
 ---
-
-## 🔌 CONNECTION DIAGRAM
-
-
----
-
 ## 📊 TABULATION
 
 ### LED Forward Characteristics
 
-| Forward Voltage Vf (V) | Forward Current If (mA) |
-|------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
+![LED LASER TAB](https://github.com/user-attachments/assets/f3fa2ab5-49fa-4e46-a634-e3a5e86fb630)
 
 ---
 
-## 📈 MODEL GRAPH
-*(Insert graph of Vf vs If here)*
+## 📈 GRAPH
+
+![LED LASER GRAPH](https://github.com/user-attachments/assets/de40da4b-0684-4e6d-9463-382653a090ba)
 
 ---
 
